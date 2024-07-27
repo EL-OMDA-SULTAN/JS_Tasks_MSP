@@ -2,7 +2,7 @@
 function greet(name){
     console.log("Hello ,"+name);
 }
-// let name=window.prompt("Enter your name : ");
+let name=window.prompt("Enter your name : ");
 greet(name);
 
 // task 2
